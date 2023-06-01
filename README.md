@@ -3,7 +3,7 @@
 
 INTRODUCTION :
 
-Some codes written in Python by me that use Artifficial Intelligence from my previous Job
+Some codes written in Python by me that uses Artifficial Intelligence from my previous Job
 
 Note : I cannot publish the majority of codes i written because of rights reserved by company.
 
